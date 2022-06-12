@@ -1,0 +1,1 @@
+Entrega numero 2 del proyecto. En el index hay un linkeo a una hoja de animaciones que esta comentado para mobile y debe ser descomentado para vista desktop. Porfavor ver comentarios que deje aclarando algunas cosas.
